@@ -1,0 +1,9 @@
+[package]
+name = "voxel"
+version = "0.1.0"
+authors = ["Kiley Owen <owenk@wit.edu>"]
+
+[dependencies]
+glium = "*"
+clock_ticks = "0.0.6"
+num = "*"
